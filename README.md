@@ -1,2 +1,3 @@
-# acme-frontend
-ACME web frontend (PR backup POC fixture)
+# ACME Frontend
+
+React-style app. POC fixture for PR backup/recovery.
